@@ -2,7 +2,7 @@
 
 Warning: This project doesn't have RTC
 
-# Components and port details
+# Components detail
  1) Arduino Uno  - 1
  2) LEDs         - 13
  3) 10K Resistor - 2
