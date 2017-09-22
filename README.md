@@ -3,8 +3,11 @@
 Warning: This project doesn't have RTC
 
 # Components and port details
-
-![comerr text](https://user-images.githubusercontent.com/15716539/30754821-e0fdbb46-9fe1-11e7-95c6-df3d358acd54.png)
+ 1) Arduino Uno  - 1
+ 2) LEDs         - 13
+ 3) 10K Resistor - 2
+ 4) Push Buttons - 2
+ 5) Wires
  
 # Connection Diagram
 
