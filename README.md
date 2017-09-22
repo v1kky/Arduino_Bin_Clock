@@ -1,4 +1,4 @@
-# Arduino_Bin_Clock
+# Arduino Based Binary Clock
 
 Warning: This project doesn't have RTC
 
